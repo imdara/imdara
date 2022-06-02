@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **server-side development**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently using **MERN stack** to develop full stack apps
 
 - ⚡ Fun fact **Full stack development is fun.**
 
